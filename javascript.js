@@ -64,6 +64,7 @@ var questions = [
     'Played temple run or subway surfers',
     'Played candy crush',
     'Learned barah khadi',
+    'Said sorry to a non-living thing',
     'Tried to learn a new language',
     'Pretended to sleep when papa came in my room in the middle of night(sach me toh phone hi chala rahe the)',
     'Ate baraf',
